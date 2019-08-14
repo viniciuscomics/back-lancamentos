@@ -1,0 +1,1 @@
+INSERT INTO lancamento(descricao,data_vencimento,data_pagamento, valor, observacao, tipo, id_categoria, id_pessoa)values('Lanche', '2017-07-10','2017-07-10',100.00,'Distribuição','DESPESA',2,2);
