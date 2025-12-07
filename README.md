@@ -95,7 +95,7 @@ Detalhe as ações específicas para cada objetivo, recursos necessários, prazo
 
 ## 4. Acompanhamento e Revisão
 
-* **Progresso Geral (Atualização):** [Use este espaço ao longo dos meses para anotar o que você já fez, quais ações foram concluídas, etc.]
+* **Progresso Geral (Atualização):** [Conseguir focar bem nos estudos nessas ultimas semanas, mas após o primeiro simulado percebi que ainda não estou pronto o suficiente para passaar na prova, mas estou no caminho.]
 * **Desafios Encontrados:** [Registre os obstáculos que surgiram ao seguir o plano e como você está lidando com eles]
 * **Ajustes Necessários:** [Anote quaisquer mudanças que você precise fazer no plano (ex: mudar um prazo, adicionar/remover uma ação)]
 * **Aprendizados:** [Reflexões sobre o que você aprendeu no processo de desenvolvimento, além do conteúdo em si]
@@ -103,14 +103,14 @@ Detalhe as ações específicas para cada objetivo, recursos necessários, prazo
 
 * **Datas de Revisão do PDI (Sugestão para 2025):**
     * Revisão 1: [Ex: Agosto de 2025]
-    * Revisão 2: [Ex: Outubro de 2025]
+    * Revisão 2: [08/12/2025: ]
     * Revisão Final: [Ex: Dezembro de 2025]
 
 ---
 
 ## 5. Suporte e Recursos Adicionais
 
-* **Quem pode me apoiar?** [Seu gestor direto no Itaú? Um mentor formal/informal? Colegas mais experientes? Área de RH/Desenvolvimento do Itaú?]
-* **Que recursos adicionais posso buscar?** [Programas de treinamento internos do Itaú? Plataformas de EAD corporativas? Comunidades online (Meetups, fóruns)? Eventos da área de tecnologia?]
+* **Quem pode me apoiar?** [Anderson Oliveira]
+* **Que recursos adicionais posso buscar?** [Udemy Corporativo Itaú]
 
 ---
